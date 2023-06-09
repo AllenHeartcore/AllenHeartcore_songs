@@ -19,3 +19,4 @@ work.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 2023.03.08 | `lulu_ddss` | 到底是啥 | | AllenHeartcore | AllenHeartcore | AllenHeartcore | [雫るる](https://space.bilibili.com/387636363) | AllenHeartcore |
 | 2023.03.08 | `watashiwa_variant` | 我是，我们是<br>(2.5D Variant) | [Guiano](https://twitter.com/GuiAnoDayo) | [Guiano](https://twitter.com/GuiAnoDayo)<br>AllenHeartcore | AllenHeartcore | AllenHeartcore | [おむたつ](https://twitter.com/omrice4869) | AllenHeartcore<br>[おむたつ](https://twitter.com/omrice4869) |
+| 2023.06.10 | `dear_diary` | Dear Diary | AllenHeartcore | AllenHeartcore<br>[雫るる](https://space.bilibili.com/387636363) | AllenHeartcore | AllenHeartcore | [雫るる](https://space.bilibili.com/387636363) | AllenHeartcore |
